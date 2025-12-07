@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 #import "../Headers/Localization.h"
 
-@interface OtherSettingsController : UIViewController <UITableViewDelegate, UITableViewDataSource>
+@interface TabBarSettingsController : UIViewController <UITableViewDelegate, UITableViewDataSource>
 @property (nonatomic, strong) UITableView* tableView;
 @end
 

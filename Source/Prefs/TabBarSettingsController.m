@@ -1,6 +1,6 @@
 #import "TabBarSettingsController.h"
 
-@implementation OtherSettingsController
+@implementation TabBarSettingsController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

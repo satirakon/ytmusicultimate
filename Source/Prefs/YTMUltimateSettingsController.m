@@ -215,7 +215,7 @@
                                  [PlayerSettingsController class],
                                  [ThemeSettingsController class],
                                  [NavBarSettingsController class],
-                                 [OtherSettingsController class]];
+                                 [TabBarSettingsController class]];
 
         if (indexPath.row >= 0 && indexPath.row < controllers.count) {
             UIViewController *controller = [[controllers[indexPath.row] alloc] init];
