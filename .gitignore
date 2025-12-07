@@ -3,3 +3,4 @@
 .upload.swp
 .vscode/
 packages/
+_codeql_detected_source_root
